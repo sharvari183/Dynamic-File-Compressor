@@ -1,0 +1,2 @@
+This is a sample file for compression testing.
+Dynamic File Compression Utility Project.
